@@ -1,5 +1,5 @@
 const Top5List = (props) => {
-    console.log(props.data)
+  
     return(
         <ul>
             <li>Hej</li>
