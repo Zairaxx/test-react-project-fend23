@@ -10,8 +10,7 @@ function App() {
   return (
     <>
       <h1>React projekt</h1>
-      <MyComponent test={myData} test2="Min andra property"/>
-      <Header />
+      <MyComponent test={myData}/>
     </>
   )
 }
